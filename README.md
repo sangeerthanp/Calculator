@@ -1,5 +1,5 @@
 # Calculator
-A very basic calculator application created using Java. 
+A calculator application created using Java. 
 
 ## Thank You!
 Please ⭐️ this repo and share it with others
